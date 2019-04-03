@@ -1,0 +1,3 @@
+rootProject.name = 'epilepsy_helper_1926'
+
+include ':app'
